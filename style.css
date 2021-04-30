@@ -1,0 +1,65 @@
+
+.header_logo img{
+    width: 170px;
+    
+}
+.header_info{
+    color: yellow;
+}
+.nav_btn{
+    font-size: larger;
+    font-weight: bolder;
+    padding: 10px;
+}
+.carousel_sec{
+    
+    padding: 20px;
+}
+.c_text{
+    color: rgb(255, 5, 5);
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.vision_sup_div1{
+    height: 100px;
+    background-color: rgb(114, 110, 110);
+    border-radius: 15px;
+}
+.vision_div{
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(120, 230, 157);
+    margin: auto;
+    z-index: 1;
+    position: relative;
+    margin-top: -50px;
+    margin-bottom: -50px;
+    background-color: rgb(93, 226, 75);
+    font-family: 'Mina', sans-serif;
+}
+.vision_sup_div2{
+    height: 100px;
+    background-color: rgb(114, 110, 110);
+    border-radius: 15px;
+    z-index: 2;
+    
+}
+.foot{
+    background-color: black;
+    border-radius: 15px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+.foot a{
+    text-decoration: none;
+    
+    margin: 10px;
+    color: white;
+}
+.foot p{
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+}
